@@ -1,6 +1,6 @@
 # See here for image contents: https://hub.docker.com/r/jupyter/datascience-notebook/
 
-FROM ghcr.io/winuim/datascience-notebook:develop
+FROM ghcr.io/winuim/datascience-notebook:main
 
 # We want to run common-debian.sh from here:
 # https://github.com/microsoft/vscode-dev-containers/tree/main/script-library#development-container-scripts
